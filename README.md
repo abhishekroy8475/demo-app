@@ -1,3 +1,4 @@
 # Demo App
 
-## ![screenshot] (./Screenshot.png)
+## Screenshot
+![screenshot] (./Screenshot.png)
